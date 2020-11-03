@@ -1,4 +1,5 @@
 # lechenaultia
+Generate a random string of alphanumeric characters.  
   
 ## Version
 ```bash
